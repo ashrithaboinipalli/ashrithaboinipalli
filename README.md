@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- My dob 06/13/2000
+- I’m currently working on Java
+- I’m currently learning Web Application
+- Ask me about Food combinations
+- How to reach me: ashritha.boinipalli13@gmail.com
+- Pronouns: she/her
 <!--
 **ashrithaboinipalli/ashrithaboinipalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
